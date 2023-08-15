@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab04</string>
+
+    <string name ="Add">Add</string>
+    <string name ="Urgent">Urgent</string>
+    <string name ="typehere">Type here</string>
+
+
+
 </resources>
